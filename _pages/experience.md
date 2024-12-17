@@ -20,9 +20,7 @@ redirect_from:
 
 ### **Data Scientist at Digikala (AI & Big Data Team)**  
 *<span style="font-size: smaller; color: gray;"> February 2024 - Present</span>*  
-- Developed an **AI-powered shopping assistant** using Retrieval-Augmented Generation (RAG) models to optimize customer experiences.  
-- Analyzed user behavior patterns using **search, click, and order data** to identify repeat purchasing trends.  
--  Collaborated on designing and developing an AI shopping assistant at Digikala, aimed at enhancing customer experience and streamlining the shopping process.
+- Collaborated on designing and developing an AI shopping assistant at Digikala, aimed at enhancing customer experience and streamlining the shopping process.
 - Enhancing platform search results by identifying the product category users are seeking, using a fine-tuned CLIP model to vectorize product titles, retrieving relevant items, and determining the desired category based on the results.
 - Analyzed search, click, and order data to identify patterns in repeat purchasing behavior.
 ---
