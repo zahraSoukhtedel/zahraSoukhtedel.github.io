@@ -8,6 +8,7 @@ redirect_from:
   - /experience.html
 ---
 
+---
 ## **Research Experience**
 ---
 
@@ -20,8 +21,8 @@ redirect_from:
 - I worked on Improving ASR Models(Wav2Vec 2) for the Persian Language. and also on the project to design model (RAG + ViT) for question answering and search in movies and TV series using an input prompt. 
 
 
-
-## **Work Experience**  
+---
+## **Work Experience**
 ---
 
 ### **Data Scientist at Digikala (AI & Big Data Team)**  
@@ -32,8 +33,8 @@ redirect_from:
 
 
 
-
-## **Teaching Experience**  
+---
+## **Teaching Experience**
 ---
 
 ### **Teaching Assistant at Sharif University of Technology**  
