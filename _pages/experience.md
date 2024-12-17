@@ -10,27 +10,21 @@ redirect_from:
 
 ### **Research Assistant at Sharif University of Technology**  
 *<span style="font-size: smaller; color: gray;"> February 2023 - February 2024</span>*  
-- Conducted research on **3D Medical Image Segmentation** under the supervision of Dr. Tefagh.  
-- Combined **MedSAM** and **NeRF** models to improve segmentation of 3D medical images (CTs) using X-ray data.  
-- Addressed challenges in constructing 3D CT scans from 2D X-ray images, utilizing **X2CT** and MedSAM pipelines.  
-- Enhanced expertise in **image segmentation**, **image registration**, and **medical image analysis**.
+- I worked on improving the medical segmentation in 3D Medical Images(CTs) by combining the Segment Anything in Medical Images(MedSAM) and NeRFs. I was also working on the idea of using X-rays to construct CTs.
 
 ### **Research Assistant at Duke University (Remote)**  
 *<span style="font-size: smaller; color: gray;"> November 2023 - March 2023</span>*  
-- Worked on improving **Automatic Speech Recognition (ASR)** for the Persian language under Dr. Farshad Firouzi.  
-- Fine-tuned **Wav2Vec 2.0** models using the Persian Common Voice dataset, achieving a Word Error Rate (WER) of **9%**.  
-- Collaborated on a **multimodal AI healthcare assistant** integrating speech and visual inputs.  
-- Designed a system using **RAG + ViT** models for question answering and content search in movies and TV series.  
+- I worked on Improving ASR Models(Wav2Vec 2) for the Persian Language. and also on the project to design model (RAG + ViT) for question answering and search in movies and TV series using an input prompt. 
 
 ---
 
 ### **Data Scientist at Digikala (AI & Big Data Team)**  
 *<span style="font-size: smaller; color: gray;"> February 2024 - Present</span>*  
 - Developed an **AI-powered shopping assistant** using Retrieval-Augmented Generation (RAG) models to optimize customer experiences.  
-- Implemented an **image-based search system** by distilling EVA CLIP models into smaller OpenAI CLIP models, leveraging **Qdrant** for efficient searches.  
-- Enhanced product search accuracy by fine-tuning CLIP models and optimizing retrieval pipelines.  
 - Analyzed user behavior patterns using **search, click, and order data** to identify repeat purchasing trends.  
-
+-  Collaborated on designing and developing an AI shopping assistant at Digikala, aimed at enhancing customer experience and streamlining the shopping process.
+- Enhancing platform search results by identifying the product category users are seeking, using a fine-tuned CLIP model to vectorize product titles, retrieving relevant items, and determining the desired category based on the results.
+- Analyzed search, click, and order data to identify patterns in repeat purchasing behavior.
 ---
 
 ### **Teaching Assistant at Sharif University of Technology**  
