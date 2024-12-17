@@ -8,6 +8,8 @@ redirect_from:
   - /experience.html
 ---
 
+## **Research Experience**
+
 ### **Research Assistant at Sharif University of Technology**  
 *<span style="font-size: smaller; color: gray;"> February 2023 - February 2024</span>*  
 - I worked on improving the medical segmentation in 3D Medical Images(CTs) by combining the Segment Anything in Medical Images(MedSAM) and NeRFs. I was also working on the idea of using X-rays to construct CTs.
@@ -18,6 +20,10 @@ redirect_from:
 
 ---
 
+
+
+## **Work Experience**  
+
 ### **Data Scientist at Digikala (AI & Big Data Team)**  
 *<span style="font-size: smaller; color: gray;"> February 2024 - Present</span>*
 - Collaborated on designing and developing an AI shopping assistant at Digikala, aimed at enhancing customer experience and streamlining the shopping process.
@@ -26,15 +32,26 @@ redirect_from:
 
 ---
 
+
+## **Teaching Experience**  
+
 ### **Teaching Assistant at Sharif University of Technology**  
-*<span style="font-size: smaller; color: gray;"> Fall 2021 - Spring 2024</span>*  
-- **Machine Learning (Graduate Course)**  
-   Assisted in project design, assignment grading, and student interviews (Spring 2023, Fall 2023, Spring 2024).  
-- **Information Theory**  
-   Designed course assignments, prepared tutorials, and conducted TA sessions (Fall 2023).  
-- **Network**  
-   Supported students with projects, assignments, and understanding course concepts (Spring 2024).  
-- **Formal Languages and Automata Theory**  
-   Contributed to assignments and a **publication** of challenging solutions (Fall 2021).  
-- **Basic Programming**  
-   Assisted in designing assignments and guiding students through programming fundamentals (Spring 2023).  
+- **Machine Learning (Graduate)** — *Spring 2024* | Instructor: Dr. Motahari  
+   Assisted with project design, implementation, and assignment grading.  
+
+- **Machine Learning** — *Spring 2024* | Instructor: Dr. Seyyedsalehi  
+   Defined and implemented course projects, graded assignments, and interviewed students.  
+
+- **Machine Learning** — *Fall 2023* | Instructor: Dr. Motahari  
+   Graded assignments, conducted TA sessions, and prepared course notes.  
+
+- **Information Theory** — *Fall 2023* | Instructor: Dr. Ebrahimi  
+   Designed course assignments and assisted with grading.  
+
+- **Basic Programming** — *Spring 2023* | Instructor: Dr. Shahraki  
+   Assisted in designing and evaluating programming assignments.  
+
+- **Formal Languages and Automata Theory** — *Fall 2021* | Instructor: Dr. Daneshgar  
+   Designed assignments and contributed to a solutions publication for challenging problems.  
+
+---
