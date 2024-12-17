@@ -23,6 +23,7 @@ redirect_from:
 - Collaborated on designing and developing an AI shopping assistant at Digikala, aimed at enhancing customer experience and streamlining the shopping process.
 - Enhancing platform search results by identifying the product category users are seeking, using a fine-tuned CLIP model to vectorize product titles, retrieving relevant items, and determining the desired category based on the results.
 - Analyzed search, click, and order data to identify patterns in repeat purchasing behavior.
+
 ---
 
 ### **Teaching Assistant at Sharif University of Technology**  
