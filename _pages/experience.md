@@ -8,6 +8,7 @@ redirect_from:
   - /experience.html
 ---
 
+## **Research Experience**
 
 ### **Research Assistant at Sharif University of Technology**  
 *<span style="font-size: smaller; color: gray;"> February 2023 - February 2024</span>*  
@@ -19,6 +20,8 @@ redirect_from:
 
 ---
 
+## **Work Experience**  
+
 ### **Data Scientist at Digikala (AI & Big Data Team)**  
 *<span style="font-size: smaller; color: gray;"> February 2024 - Present</span>*
 - Collaborated on designing and developing an AI shopping assistant at Digikala, aimed at enhancing customer experience and streamlining the shopping process.
@@ -26,6 +29,9 @@ redirect_from:
 - Analyzed search, click, and order data to identify patterns in repeat purchasing behavior.
 
 ---
+
+
+## **Teaching Experience**  
 
 ### **Teaching Assistant at Sharif University of Technology**  
 - **Machine Learning (Graduate)** — *Spring 2024* | Instructor: Dr. Motahari  
